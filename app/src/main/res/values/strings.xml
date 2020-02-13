@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ich hab`s</string>
+
+
+    <string name="clearAll">Alles löschen</string>
+    <string name="clearLast">Letztes löschen</string>
+
+    <string name="foodName">TextView</string>
+    <string name="textView2">Menge</string>
+    <string name="menge">TextView</string>
+    <string name="TextView">Beschreibung</string>
+    <string name="beschreibung">TextView</string>
+    <string name="save">speichern</string>
+
+    <string name="itemName">TextView</string>
+</resources>
